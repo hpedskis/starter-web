@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 blabh asdlfkjasdlkfjalsdkfjalsdkf
+
+### Copyright
+copyright 2020
