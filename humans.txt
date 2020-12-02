@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Hannah P. hannah@testing.com hanhan
 
 # THANKS
 
