@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 This is another line for rebasing, then more changes
+Emergency fix post stash
 
 ## Purpose
 
