@@ -8,7 +8,7 @@ This is another line for rebasing, then more changes
 Sample website with plenty of files for demos
 
 ## Deployment
-real deployment info here
+Real deployment info here
 
 ### Copyright
-copyright 2020
+Copyright 2020
